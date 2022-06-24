@@ -1,2 +1,3 @@
-# Quizzy
-Backend to my testapp
+# QUIZZY
+Backend to a testing app using the MERN stack
+
